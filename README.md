@@ -1,2 +1,0 @@
-# landind-page
-  html,css
